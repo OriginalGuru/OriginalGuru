@@ -1,9 +1,4 @@
-# About me
-
-
-**OriginalGuru/OriginalGuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# OriginalGuru
 
 - 🔭 I’m currently working on too many things.
 - 🌱 I’m currently learning too many things.

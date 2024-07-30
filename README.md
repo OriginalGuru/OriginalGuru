@@ -7,9 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on too many things.
 - 🌱 I’m currently learning too many things.
-- 👯 I’m looking to collaborate on nothing.
-- 🤔 I’m looking for help with nothing.
-- 💬 Ask me about physics, bboying
+- 💬 Ask me about physics, bboying, and hip hop.
 - 📫 How to reach me: don't.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: are facts actually fun?
